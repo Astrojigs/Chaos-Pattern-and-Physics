@@ -1,2 +1,5 @@
 # Chaos-Pattern-and-Physics
 This Repository will give you an idea of the relationship between chaos, pattern and physics.
+
+This project is inspired from the video [The relationship between Chaos, Fractal and Physics](https://youtu.be/C5Jkgvw-Z6E)
+
