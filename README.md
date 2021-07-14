@@ -5,3 +5,6 @@ This project is inspired from the video [The relationship between Chaos, Fractal
 
 The video pattern:
 ![image not found!](https://github.com/Astrojigs/Chaos-Pattern-and-Physics/blob/main/chaos-fractal-physics-original.jpg)
+
+My Pattern:
+![None](https://github.com/Astrojigs/Chaos-Pattern-and-Physics/blob/main/NicePattern.png)
