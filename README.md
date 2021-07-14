@@ -9,7 +9,8 @@ I have taken 3 stationary objects(say, stars) and a free moving body (say, plane
 
 
 ## Step one:
-The planet is spawned at random places and the program will plot the trajectory of what happens to it after being spawned.
+The planet is spawned at random places and the program will plot the trajectory of what happens to it after being spawned.<br>
+**Note: The only force the planet experiences is the force of gravity by the three stars.**
 
 This step calculates the trajectory and plots it.<br>
 **For example:**
