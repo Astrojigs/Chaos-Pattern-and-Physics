@@ -8,3 +8,6 @@ This project is inspired from the video [The relationship between Chaos, Fractal
 
 # My Pattern:
 ![None](https://github.com/Astrojigs/Chaos-Pattern-and-Physics/blob/main/NicePattern.png)
+
+## Note:
+The video uses 3 magnets and a pendulum. In my case, The freely moving ball moves due to force of gravity exerted by the 3 stationary objects(stars).
