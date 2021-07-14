@@ -3,8 +3,14 @@ This Repository will give you an idea of the relationship between chaos, fractal
 
 This project is inspired from the video [The relationship between Chaos, Fractal and Physics](https://youtu.be/C5Jkgvw-Z6E)
 
+I have taken 3 stationary objects(say, stars) and a free moving body (say, planet) in the plot.
+
+![3 stars](https://github.com/Astrojigs/Chaos-Pattern-and-Physics/blob/main/stationary_stars.png)
+
 
 ## Step one:
+The planet is spawned at random places and the program will plot the trajectory of what happens to it after being spawned.
+
 This step calculates the trajectory and plots it.<br>
 **For example:**
 
